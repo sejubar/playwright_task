@@ -1,0 +1,13 @@
+{
+    "General": {
+        "timeout": 15
+    },
+    "QA": {
+        "url": "https://giantrocketship.com",
+        "playwright": "1.48.0"
+    },
+    "DEV": {
+        "url": "https://giantrocketship.dev",
+        "playwright": "1.48.0"
+    }
+}

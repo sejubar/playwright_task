@@ -1,0 +1,36 @@
+Hi there. I got a lot more responses than I expected for this post. I've filtered them out and here we are!
+
+
+
+To help me further refine the list, I'd like to propose this:
+
+
+
+I will aware you a 2-hour contract at your proposed rate.
+You will write the Playwrite scripts to test the URLs I send you.
+You will supply the code (your GitHub is fine).
+
+
+
+The test below is obviously pretty simple. Main purpose is to see how you solve this.
+
+
+
+Testing:
+------
+You will test https://giantrocketship.com/
+You will verify the page comes up properly
+You will navigate to the Contact Us form via the Top Menu
+You will submit the following in the Form (1)
+
+
+
+Form (1)
+------
+Name Only : should fail
+Name + Email : should fail
+Name + Email + Comment : should succeed
+
+
+
+The Contact Us form is in an iframe on the Contact Us page.
