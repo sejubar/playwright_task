@@ -15,3 +15,7 @@ once you are in your devcontainers you can follow steps above.
 
 ## running the test
 `pytest tests/test_example.py --headed --slowmo 2000`
+
+or multiple
+
+`pytest tests/test_example.py --headed --slowmo 2000 --browser webkit --browser firefox --browser chromiu`
